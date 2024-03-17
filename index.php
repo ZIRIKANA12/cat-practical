@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Form Example</title>
 </head>
+    //please correct your system
 <body>
     <h2>PHP Form Example</h2>
     <form action="process.php" method="post">
